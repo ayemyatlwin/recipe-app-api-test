@@ -2,10 +2,10 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Mooli', sans-serif;
 }
 body{
-    background-color: #f4c531;
+    background-color: #e6c55a;
 }
 .container{
     background-color: #ffffff;
